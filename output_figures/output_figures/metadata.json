@@ -1,0 +1,978 @@
+{
+  "file1": {
+    "segments": [
+      {
+        "line_figs": [
+          "file1_segment0_line0.json",
+          "file1_segment0_line1.json",
+          "file1_segment0_line2.json"
+        ],
+        "spectrogram_fig": "file1_segment0_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file1_segment1_line0.json",
+          "file1_segment1_line1.json",
+          "file1_segment1_line2.json"
+        ],
+        "spectrogram_fig": "file1_segment1_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file1_segment2_line0.json",
+          "file1_segment2_line1.json",
+          "file1_segment2_line2.json"
+        ],
+        "spectrogram_fig": "file1_segment2_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file1_segment3_line0.json",
+          "file1_segment3_line1.json",
+          "file1_segment3_line2.json"
+        ],
+        "spectrogram_fig": "file1_segment3_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file1_segment4_line0.json",
+          "file1_segment4_line1.json",
+          "file1_segment4_line2.json"
+        ],
+        "spectrogram_fig": "file1_segment4_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file1_segment5_line0.json",
+          "file1_segment5_line1.json",
+          "file1_segment5_line2.json"
+        ],
+        "spectrogram_fig": "file1_segment5_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file1_segment6_line0.json",
+          "file1_segment6_line1.json",
+          "file1_segment6_line2.json"
+        ],
+        "spectrogram_fig": "file1_segment6_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file1_segment7_line0.json",
+          "file1_segment7_line1.json",
+          "file1_segment7_line2.json"
+        ],
+        "spectrogram_fig": "file1_segment7_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file1_segment8_line0.json",
+          "file1_segment8_line1.json",
+          "file1_segment8_line2.json"
+        ],
+        "spectrogram_fig": "file1_segment8_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file1_segment9_line0.json",
+          "file1_segment9_line1.json",
+          "file1_segment9_line2.json"
+        ],
+        "spectrogram_fig": "file1_segment9_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file1_segment10_line0.json",
+          "file1_segment10_line1.json",
+          "file1_segment10_line2.json"
+        ],
+        "spectrogram_fig": "file1_segment10_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file1_segment11_line0.json",
+          "file1_segment11_line1.json",
+          "file1_segment11_line2.json"
+        ],
+        "spectrogram_fig": "file1_segment11_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file1_segment12_line0.json",
+          "file1_segment12_line1.json",
+          "file1_segment12_line2.json"
+        ],
+        "spectrogram_fig": "file1_segment12_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file1_segment13_line0.json",
+          "file1_segment13_line1.json",
+          "file1_segment13_line2.json"
+        ],
+        "spectrogram_fig": "file1_segment13_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file1_segment14_line0.json",
+          "file1_segment14_line1.json",
+          "file1_segment14_line2.json"
+        ],
+        "spectrogram_fig": "file1_segment14_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file1_segment15_line0.json",
+          "file1_segment15_line1.json",
+          "file1_segment15_line2.json"
+        ],
+        "spectrogram_fig": "file1_segment15_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file1_segment16_line0.json",
+          "file1_segment16_line1.json",
+          "file1_segment16_line2.json"
+        ],
+        "spectrogram_fig": "file1_segment16_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file1_segment17_line0.json",
+          "file1_segment17_line1.json",
+          "file1_segment17_line2.json"
+        ],
+        "spectrogram_fig": "file1_segment17_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file1_segment18_line0.json",
+          "file1_segment18_line1.json",
+          "file1_segment18_line2.json"
+        ],
+        "spectrogram_fig": "file1_segment18_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file1_segment19_line0.json",
+          "file1_segment19_line1.json",
+          "file1_segment19_line2.json"
+        ],
+        "spectrogram_fig": "file1_segment19_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file1_segment20_line0.json",
+          "file1_segment20_line1.json",
+          "file1_segment20_line2.json"
+        ],
+        "spectrogram_fig": "file1_segment20_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file1_segment21_line0.json",
+          "file1_segment21_line1.json",
+          "file1_segment21_line2.json"
+        ],
+        "spectrogram_fig": "file1_segment21_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file1_segment22_line0.json",
+          "file1_segment22_line1.json",
+          "file1_segment22_line2.json"
+        ],
+        "spectrogram_fig": "file1_segment22_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file1_segment23_line0.json",
+          "file1_segment23_line1.json",
+          "file1_segment23_line2.json"
+        ],
+        "spectrogram_fig": "file1_segment23_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file1_segment24_line0.json",
+          "file1_segment24_line1.json",
+          "file1_segment24_line2.json"
+        ],
+        "spectrogram_fig": "file1_segment24_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file1_segment25_line0.json",
+          "file1_segment25_line1.json",
+          "file1_segment25_line2.json"
+        ],
+        "spectrogram_fig": "file1_segment25_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file1_segment26_line0.json",
+          "file1_segment26_line1.json",
+          "file1_segment26_line2.json"
+        ],
+        "spectrogram_fig": "file1_segment26_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file1_segment27_line0.json",
+          "file1_segment27_line1.json",
+          "file1_segment27_line2.json"
+        ],
+        "spectrogram_fig": "file1_segment27_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file1_segment28_line0.json",
+          "file1_segment28_line1.json",
+          "file1_segment28_line2.json"
+        ],
+        "spectrogram_fig": "file1_segment28_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file1_segment29_line0.json",
+          "file1_segment29_line1.json",
+          "file1_segment29_line2.json"
+        ],
+        "spectrogram_fig": "file1_segment29_spectrogram.json"
+      }
+    ]
+  },
+  "file2": {
+    "segments": [
+      {
+        "line_figs": [
+          "file2_segment0_line0.json",
+          "file2_segment0_line1.json",
+          "file2_segment0_line2.json"
+        ],
+        "spectrogram_fig": "file2_segment0_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file2_segment1_line0.json",
+          "file2_segment1_line1.json",
+          "file2_segment1_line2.json"
+        ],
+        "spectrogram_fig": "file2_segment1_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file2_segment2_line0.json",
+          "file2_segment2_line1.json",
+          "file2_segment2_line2.json"
+        ],
+        "spectrogram_fig": "file2_segment2_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file2_segment3_line0.json",
+          "file2_segment3_line1.json",
+          "file2_segment3_line2.json"
+        ],
+        "spectrogram_fig": "file2_segment3_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file2_segment4_line0.json",
+          "file2_segment4_line1.json",
+          "file2_segment4_line2.json"
+        ],
+        "spectrogram_fig": "file2_segment4_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file2_segment5_line0.json",
+          "file2_segment5_line1.json",
+          "file2_segment5_line2.json"
+        ],
+        "spectrogram_fig": "file2_segment5_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file2_segment6_line0.json",
+          "file2_segment6_line1.json",
+          "file2_segment6_line2.json"
+        ],
+        "spectrogram_fig": "file2_segment6_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file2_segment7_line0.json",
+          "file2_segment7_line1.json",
+          "file2_segment7_line2.json"
+        ],
+        "spectrogram_fig": "file2_segment7_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file2_segment8_line0.json",
+          "file2_segment8_line1.json",
+          "file2_segment8_line2.json"
+        ],
+        "spectrogram_fig": "file2_segment8_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file2_segment9_line0.json",
+          "file2_segment9_line1.json",
+          "file2_segment9_line2.json"
+        ],
+        "spectrogram_fig": "file2_segment9_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file2_segment10_line0.json",
+          "file2_segment10_line1.json",
+          "file2_segment10_line2.json"
+        ],
+        "spectrogram_fig": "file2_segment10_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file2_segment11_line0.json",
+          "file2_segment11_line1.json",
+          "file2_segment11_line2.json"
+        ],
+        "spectrogram_fig": "file2_segment11_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file2_segment12_line0.json",
+          "file2_segment12_line1.json",
+          "file2_segment12_line2.json"
+        ],
+        "spectrogram_fig": "file2_segment12_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file2_segment13_line0.json",
+          "file2_segment13_line1.json",
+          "file2_segment13_line2.json"
+        ],
+        "spectrogram_fig": "file2_segment13_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file2_segment14_line0.json",
+          "file2_segment14_line1.json",
+          "file2_segment14_line2.json"
+        ],
+        "spectrogram_fig": "file2_segment14_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file2_segment15_line0.json",
+          "file2_segment15_line1.json",
+          "file2_segment15_line2.json"
+        ],
+        "spectrogram_fig": "file2_segment15_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file2_segment16_line0.json",
+          "file2_segment16_line1.json",
+          "file2_segment16_line2.json"
+        ],
+        "spectrogram_fig": "file2_segment16_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file2_segment17_line0.json",
+          "file2_segment17_line1.json",
+          "file2_segment17_line2.json"
+        ],
+        "spectrogram_fig": "file2_segment17_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file2_segment18_line0.json",
+          "file2_segment18_line1.json",
+          "file2_segment18_line2.json"
+        ],
+        "spectrogram_fig": "file2_segment18_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file2_segment19_line0.json",
+          "file2_segment19_line1.json",
+          "file2_segment19_line2.json"
+        ],
+        "spectrogram_fig": "file2_segment19_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file2_segment20_line0.json",
+          "file2_segment20_line1.json",
+          "file2_segment20_line2.json"
+        ],
+        "spectrogram_fig": "file2_segment20_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file2_segment21_line0.json",
+          "file2_segment21_line1.json",
+          "file2_segment21_line2.json"
+        ],
+        "spectrogram_fig": "file2_segment21_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file2_segment22_line0.json",
+          "file2_segment22_line1.json",
+          "file2_segment22_line2.json"
+        ],
+        "spectrogram_fig": "file2_segment22_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file2_segment23_line0.json",
+          "file2_segment23_line1.json",
+          "file2_segment23_line2.json"
+        ],
+        "spectrogram_fig": "file2_segment23_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file2_segment24_line0.json",
+          "file2_segment24_line1.json",
+          "file2_segment24_line2.json"
+        ],
+        "spectrogram_fig": "file2_segment24_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file2_segment25_line0.json",
+          "file2_segment25_line1.json",
+          "file2_segment25_line2.json"
+        ],
+        "spectrogram_fig": "file2_segment25_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file2_segment26_line0.json",
+          "file2_segment26_line1.json",
+          "file2_segment26_line2.json"
+        ],
+        "spectrogram_fig": "file2_segment26_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file2_segment27_line0.json",
+          "file2_segment27_line1.json",
+          "file2_segment27_line2.json"
+        ],
+        "spectrogram_fig": "file2_segment27_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file2_segment28_line0.json",
+          "file2_segment28_line1.json",
+          "file2_segment28_line2.json"
+        ],
+        "spectrogram_fig": "file2_segment28_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file2_segment29_line0.json",
+          "file2_segment29_line1.json",
+          "file2_segment29_line2.json"
+        ],
+        "spectrogram_fig": "file2_segment29_spectrogram.json"
+      }
+    ]
+  },
+  "file3": {
+    "segments": [
+      {
+        "line_figs": [
+          "file3_segment0_line0.json",
+          "file3_segment0_line1.json",
+          "file3_segment0_line2.json"
+        ],
+        "spectrogram_fig": "file3_segment0_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file3_segment1_line0.json",
+          "file3_segment1_line1.json",
+          "file3_segment1_line2.json"
+        ],
+        "spectrogram_fig": "file3_segment1_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file3_segment2_line0.json",
+          "file3_segment2_line1.json",
+          "file3_segment2_line2.json"
+        ],
+        "spectrogram_fig": "file3_segment2_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file3_segment3_line0.json",
+          "file3_segment3_line1.json",
+          "file3_segment3_line2.json"
+        ],
+        "spectrogram_fig": "file3_segment3_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file3_segment4_line0.json",
+          "file3_segment4_line1.json",
+          "file3_segment4_line2.json"
+        ],
+        "spectrogram_fig": "file3_segment4_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file3_segment5_line0.json",
+          "file3_segment5_line1.json",
+          "file3_segment5_line2.json"
+        ],
+        "spectrogram_fig": "file3_segment5_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file3_segment6_line0.json",
+          "file3_segment6_line1.json",
+          "file3_segment6_line2.json"
+        ],
+        "spectrogram_fig": "file3_segment6_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file3_segment7_line0.json",
+          "file3_segment7_line1.json",
+          "file3_segment7_line2.json"
+        ],
+        "spectrogram_fig": "file3_segment7_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file3_segment8_line0.json",
+          "file3_segment8_line1.json",
+          "file3_segment8_line2.json"
+        ],
+        "spectrogram_fig": "file3_segment8_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file3_segment9_line0.json",
+          "file3_segment9_line1.json",
+          "file3_segment9_line2.json"
+        ],
+        "spectrogram_fig": "file3_segment9_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file3_segment10_line0.json",
+          "file3_segment10_line1.json",
+          "file3_segment10_line2.json"
+        ],
+        "spectrogram_fig": "file3_segment10_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file3_segment11_line0.json",
+          "file3_segment11_line1.json",
+          "file3_segment11_line2.json"
+        ],
+        "spectrogram_fig": "file3_segment11_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file3_segment12_line0.json",
+          "file3_segment12_line1.json",
+          "file3_segment12_line2.json"
+        ],
+        "spectrogram_fig": "file3_segment12_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file3_segment13_line0.json",
+          "file3_segment13_line1.json",
+          "file3_segment13_line2.json"
+        ],
+        "spectrogram_fig": "file3_segment13_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file3_segment14_line0.json",
+          "file3_segment14_line1.json",
+          "file3_segment14_line2.json"
+        ],
+        "spectrogram_fig": "file3_segment14_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file3_segment15_line0.json",
+          "file3_segment15_line1.json",
+          "file3_segment15_line2.json"
+        ],
+        "spectrogram_fig": "file3_segment15_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file3_segment16_line0.json",
+          "file3_segment16_line1.json",
+          "file3_segment16_line2.json"
+        ],
+        "spectrogram_fig": "file3_segment16_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file3_segment17_line0.json",
+          "file3_segment17_line1.json",
+          "file3_segment17_line2.json"
+        ],
+        "spectrogram_fig": "file3_segment17_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file3_segment18_line0.json",
+          "file3_segment18_line1.json",
+          "file3_segment18_line2.json"
+        ],
+        "spectrogram_fig": "file3_segment18_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file3_segment19_line0.json",
+          "file3_segment19_line1.json",
+          "file3_segment19_line2.json"
+        ],
+        "spectrogram_fig": "file3_segment19_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file3_segment20_line0.json",
+          "file3_segment20_line1.json",
+          "file3_segment20_line2.json"
+        ],
+        "spectrogram_fig": "file3_segment20_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file3_segment21_line0.json",
+          "file3_segment21_line1.json",
+          "file3_segment21_line2.json"
+        ],
+        "spectrogram_fig": "file3_segment21_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file3_segment22_line0.json",
+          "file3_segment22_line1.json",
+          "file3_segment22_line2.json"
+        ],
+        "spectrogram_fig": "file3_segment22_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file3_segment23_line0.json",
+          "file3_segment23_line1.json",
+          "file3_segment23_line2.json"
+        ],
+        "spectrogram_fig": "file3_segment23_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file3_segment24_line0.json",
+          "file3_segment24_line1.json",
+          "file3_segment24_line2.json"
+        ],
+        "spectrogram_fig": "file3_segment24_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file3_segment25_line0.json",
+          "file3_segment25_line1.json",
+          "file3_segment25_line2.json"
+        ],
+        "spectrogram_fig": "file3_segment25_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file3_segment26_line0.json",
+          "file3_segment26_line1.json",
+          "file3_segment26_line2.json"
+        ],
+        "spectrogram_fig": "file3_segment26_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file3_segment27_line0.json",
+          "file3_segment27_line1.json",
+          "file3_segment27_line2.json"
+        ],
+        "spectrogram_fig": "file3_segment27_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file3_segment28_line0.json",
+          "file3_segment28_line1.json",
+          "file3_segment28_line2.json"
+        ],
+        "spectrogram_fig": "file3_segment28_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file3_segment29_line0.json",
+          "file3_segment29_line1.json",
+          "file3_segment29_line2.json"
+        ],
+        "spectrogram_fig": "file3_segment29_spectrogram.json"
+      }
+    ]
+  },
+  "file4": {
+    "segments": [
+      {
+        "line_figs": [
+          "file4_segment0_line0.json",
+          "file4_segment0_line1.json",
+          "file4_segment0_line2.json"
+        ],
+        "spectrogram_fig": "file4_segment0_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file4_segment1_line0.json",
+          "file4_segment1_line1.json",
+          "file4_segment1_line2.json"
+        ],
+        "spectrogram_fig": "file4_segment1_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file4_segment2_line0.json",
+          "file4_segment2_line1.json",
+          "file4_segment2_line2.json"
+        ],
+        "spectrogram_fig": "file4_segment2_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file4_segment3_line0.json",
+          "file4_segment3_line1.json",
+          "file4_segment3_line2.json"
+        ],
+        "spectrogram_fig": "file4_segment3_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file4_segment4_line0.json",
+          "file4_segment4_line1.json",
+          "file4_segment4_line2.json"
+        ],
+        "spectrogram_fig": "file4_segment4_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file4_segment5_line0.json",
+          "file4_segment5_line1.json",
+          "file4_segment5_line2.json"
+        ],
+        "spectrogram_fig": "file4_segment5_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file4_segment6_line0.json",
+          "file4_segment6_line1.json",
+          "file4_segment6_line2.json"
+        ],
+        "spectrogram_fig": "file4_segment6_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file4_segment7_line0.json",
+          "file4_segment7_line1.json",
+          "file4_segment7_line2.json"
+        ],
+        "spectrogram_fig": "file4_segment7_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file4_segment8_line0.json",
+          "file4_segment8_line1.json",
+          "file4_segment8_line2.json"
+        ],
+        "spectrogram_fig": "file4_segment8_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file4_segment9_line0.json",
+          "file4_segment9_line1.json",
+          "file4_segment9_line2.json"
+        ],
+        "spectrogram_fig": "file4_segment9_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file4_segment10_line0.json",
+          "file4_segment10_line1.json",
+          "file4_segment10_line2.json"
+        ],
+        "spectrogram_fig": "file4_segment10_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file4_segment11_line0.json",
+          "file4_segment11_line1.json",
+          "file4_segment11_line2.json"
+        ],
+        "spectrogram_fig": "file4_segment11_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file4_segment12_line0.json",
+          "file4_segment12_line1.json",
+          "file4_segment12_line2.json"
+        ],
+        "spectrogram_fig": "file4_segment12_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file4_segment13_line0.json",
+          "file4_segment13_line1.json",
+          "file4_segment13_line2.json"
+        ],
+        "spectrogram_fig": "file4_segment13_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file4_segment14_line0.json",
+          "file4_segment14_line1.json",
+          "file4_segment14_line2.json"
+        ],
+        "spectrogram_fig": "file4_segment14_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file4_segment15_line0.json",
+          "file4_segment15_line1.json",
+          "file4_segment15_line2.json"
+        ],
+        "spectrogram_fig": "file4_segment15_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file4_segment16_line0.json",
+          "file4_segment16_line1.json",
+          "file4_segment16_line2.json"
+        ],
+        "spectrogram_fig": "file4_segment16_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file4_segment17_line0.json",
+          "file4_segment17_line1.json",
+          "file4_segment17_line2.json"
+        ],
+        "spectrogram_fig": "file4_segment17_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file4_segment18_line0.json",
+          "file4_segment18_line1.json",
+          "file4_segment18_line2.json"
+        ],
+        "spectrogram_fig": "file4_segment18_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file4_segment19_line0.json",
+          "file4_segment19_line1.json",
+          "file4_segment19_line2.json"
+        ],
+        "spectrogram_fig": "file4_segment19_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file4_segment20_line0.json",
+          "file4_segment20_line1.json",
+          "file4_segment20_line2.json"
+        ],
+        "spectrogram_fig": "file4_segment20_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file4_segment21_line0.json",
+          "file4_segment21_line1.json",
+          "file4_segment21_line2.json"
+        ],
+        "spectrogram_fig": "file4_segment21_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file4_segment22_line0.json",
+          "file4_segment22_line1.json",
+          "file4_segment22_line2.json"
+        ],
+        "spectrogram_fig": "file4_segment22_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file4_segment23_line0.json",
+          "file4_segment23_line1.json",
+          "file4_segment23_line2.json"
+        ],
+        "spectrogram_fig": "file4_segment23_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file4_segment24_line0.json",
+          "file4_segment24_line1.json",
+          "file4_segment24_line2.json"
+        ],
+        "spectrogram_fig": "file4_segment24_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file4_segment25_line0.json",
+          "file4_segment25_line1.json",
+          "file4_segment25_line2.json"
+        ],
+        "spectrogram_fig": "file4_segment25_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file4_segment26_line0.json",
+          "file4_segment26_line1.json",
+          "file4_segment26_line2.json"
+        ],
+        "spectrogram_fig": "file4_segment26_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file4_segment27_line0.json",
+          "file4_segment27_line1.json",
+          "file4_segment27_line2.json"
+        ],
+        "spectrogram_fig": "file4_segment27_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file4_segment28_line0.json",
+          "file4_segment28_line1.json",
+          "file4_segment28_line2.json"
+        ],
+        "spectrogram_fig": "file4_segment28_spectrogram.json"
+      },
+      {
+        "line_figs": [
+          "file4_segment29_line0.json",
+          "file4_segment29_line1.json",
+          "file4_segment29_line2.json"
+        ],
+        "spectrogram_fig": "file4_segment29_spectrogram.json"
+      }
+    ]
+  }
+}
